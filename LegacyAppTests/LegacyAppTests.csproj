@@ -23,6 +23,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\LegacyAppConsumer\LegacyAppConsumer.csproj" />
       <ProjectReference Include="..\LegacyApp\LegacyApp.csproj" />
     </ItemGroup>
 
